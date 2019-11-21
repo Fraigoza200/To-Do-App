@@ -1,0 +1,25 @@
+{
+  "name": "To-Do-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraigoza200/To-Do-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraigoza200/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/Fraigoza200/To-Do-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.1"
+  }
+}
